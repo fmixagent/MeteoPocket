@@ -1,0 +1,1 @@
+﻿package  edu.uoc.meteoPocket{	public class ScreenTypes 	{		public static const SCREEN_A:int = 1;		public static const SCREEN_B:int = 2;	}	}
