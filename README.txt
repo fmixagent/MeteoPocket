@@ -3,7 +3,7 @@
 MeteoPocket: weather forecast application (AIR)
 by Daniel de Fuenmayor (www.fmixlab.com)
 
-This is the final project I asked my students this year on Aplicacions Rich Media (Rich Media Applications) course at the Universitat Oberta de Catalynya (UOC: Open University of Catalonia).
+This is the final project I asked my students this year on Aplicacions Rich Media (Rich Media Applications) course at the Universitat Oberta de Catalynya (UOC: Open University of Catalonia http://www.uoc.edu/).
 This application (completely operational) is a non-commercial non-profit application with the sole purpose of showing the creation of a multi-platform/multi-devices AIR Application and the use, in this case, of some very useful Yahoo APIs.
  
 ===============================================
